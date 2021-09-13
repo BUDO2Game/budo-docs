@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [BUDO II / 武道 II](README.md)
 
