@@ -1,2 +1,2 @@
-# budo-docs
-BUDO II Game Docs
+# Initial page
+
